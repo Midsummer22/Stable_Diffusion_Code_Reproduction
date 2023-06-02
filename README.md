@@ -1,8 +1,3 @@
-# Stable_Diffusion_Code_Reproduction
-Stable Diffusion code reproduction.Sorry for the poor coding skills!
-
-Sure, I'd be happy to help you translate this README into English. Here it is:
-
 # Stable Diffusion Code Reproduction
 
 This repository contains the diffusers and stable diffusion model parameters publicly released by the authors, as well as code for using the stable diffusion model and a video demonstrating how to use it. There are two main functions: generating images based on text prompts, and generating images based on given images and text prompts (the latter has less satisfactory results).
